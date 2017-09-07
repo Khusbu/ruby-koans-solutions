@@ -39,5 +39,4 @@ class AboutNil < Neo::Koan
     # obj.nil? : refers one object
     # obj == nil : refers two objects(obj & nil)
   end
-
 end
